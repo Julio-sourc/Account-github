@@ -1,6 +1,6 @@
-# Projetos de Machine Learn utilizando Regressão Linear e Regressão Logistica
+# Projetos de Machine Learn utilizando Regressão Linear e Regressão Logística
 ## Conteúdo do projeto
-A empresa está tentando decidir se deve concentrar seus esforços em sua experiência em aplicativos móveis ou em seu site. Eles contrataram você para ajudá-los a descobrir isso!
+As regreções linear e logística foram aplicados em alguns DataSets baixados do site da https://www.kaggle.com/ para treinar modelos preditivos
 * Vale ressaltar que os dados são genericos.
 * Todos os projetos estão com a extensão .ipynb
 * A base onde foram tirado os dados estão com a extensão .csv
