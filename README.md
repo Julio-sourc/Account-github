@@ -4,4 +4,4 @@ A empresa está tentando decidir se deve concentrar seus esforços em sua experi
 * Vale ressaltar que os dados são genericos.
 * Todos os projetos estão com a extensão .ipynb
 * A base onde foram tirado os dados estão com a extensão .csv
-* Foram baixados no Kaggle
+* Foram baixados no  site da Kaggle.
